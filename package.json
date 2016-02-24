@@ -1,0 +1,31 @@
+{
+  "name": "babel-plugin-transform-iota",
+  "version": "1.0.0",
+  "description": "Transforms iota() calls into ever-increasing literals.",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/passcod/babel-plugin-transform-iota.git"
+  },
+  "keywords": [
+    "babel",
+    "babel-plugin",
+    "iota",
+    "go"
+  ],
+  "author": "Félix Saparelli <me@passcod.name> (https://passcod.name)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/passcod/babel-plugin-transform-iota/issues"
+  },
+  "homepage": "https://github.com/passcod/babel-plugin-transform-iota#readme",
+  "dependencies": {
+    "babel-runtime": "^6.5.0"
+  },
+  "devDependencies": {
+    "standard": "^6.0.7"
+  }
+}
