@@ -1,5 +1,7 @@
 # Babel transform: iota
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/passcod/babel-plugin-transform-iota.svg)](https://greenkeeper.io/)
+
 [![License: ISC](https://img.shields.io/badge/license-ISC-blue.svg?style=flat-square)](https://raw.githubusercontent.com/passcod/babel-plugin-transform-iota/master/LICENSE)
 [![Travis CI Test Status](https://img.shields.io/travis/passcod/babel-plugin-transform-iota.svg?style=flat-square)](https://travis-ci.org/passcod/babel-plugin-transform-iota)
 [![Code of Conduct](https://img.shields.io/badge/contributor-covenant-123456.svg?style=flat-square)](http://contributor-covenant.org/version/1/4/)
