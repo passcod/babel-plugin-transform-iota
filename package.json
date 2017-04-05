@@ -26,6 +26,6 @@
     "babel-runtime": "^6.5.0"
   },
   "devDependencies": {
-    "standard": "^9.0.2"
+    "standard": "^10.0.0"
   }
 }
